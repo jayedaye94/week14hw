@@ -4,7 +4,7 @@
 
 - Run terraform processes to initialize the provider and backend.
 
-- Setup your VPC, subnets, and HA VPN. With the correct naming schemes, adequate subnets, and regions. Create these process for your networks section....
+- Setup your VPC, subnets, and HA VPN. With the correct naming schemes, adequate subnets, and regions. Create these processes for your networks section....
 	- Two HA VPN gateway, two VPC network, two subnets for each VPC network, two routers, four tunnels, four router interfaces (two interfaces for router1/tunnel1-2 & two interfaces for router2/tunnel3-4), then four router peers (two peers for router1 & two peers for router 2). 
 
 - Repeat this process for the other client as well. With different naming schemes. 
