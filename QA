@@ -1,2 +1,16 @@
-##Individual work Q&A
+Individual work Q&A
+
+Explain the differences and similarites between HA VPN and NCC.
+
+Similarities:
+
+NCC (Network Connectivity Center) is a framework in GCP that centralizes how businesses or enterprises connect global networks.
+An example is that it uses hub-and-spoke model to unify VPC's. 
+
+HA VPN (High availability) cloud VPN is a GCP service that allows you to secure and connect your on premises networks or other clouds to your GCP network via IPsec VPN
+
+Differences:
+
+
+    
 
